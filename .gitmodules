@@ -1,4 +1,0 @@
-[submodule "RENBRAN/testtest"]
-	path = RENBRAN/testtest
-	url = git@github.com:RENBRAN/testtest.git
-	branch = MASTER
